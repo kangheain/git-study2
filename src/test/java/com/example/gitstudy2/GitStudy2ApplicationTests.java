@@ -10,4 +10,7 @@ class GitStudy2ApplicationTests {
     void contextLoads() {
     }
 
+    public static void main(String[] args) {
+        System.out.println("git-heeeeeeeeeeeeeeeeeeeei");
+    }
 }
